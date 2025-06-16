@@ -1,4 +1,4 @@
-# app
+# Shopping Memory Helper App
 
 A new Flutter project.
 
